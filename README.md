@@ -1,5 +1,8 @@
-# UserAgentProvider
-Random User Agent string provider for Java.
+# CrawlerUtils
+Wrapper for several useful Crawling libraries
+
+- UserAgentProvider: generates randomized and valid User Agent strings for HTTP requests
+- RandomPause: pauses current thread for a random amount of time
 
 ## Maven dependency:
 
