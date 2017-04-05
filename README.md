@@ -12,7 +12,7 @@ Random User Agent string provider for Java.
 ```xml
 <dependency>
     <groupId>com.github.mdebenito</groupId>
-    <artifactId>UserAgentProvider</artifactId>
+    <artifactId>CrawlerUtils</artifactId>
     <version>master-SNAPSHOT</version>
 </dependency>
 ```
