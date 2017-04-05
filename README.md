@@ -1,8 +1,8 @@
 # CrawlerUtils
 Wrapper for several useful Crawling libraries
 
-- UserAgentProvider: generates randomized and valid User Agent strings for HTTP requests
-- RandomPause: pauses current thread for a random amount of time
+- UserAgentProvider: generates randomized and valid User Agent strings for HTTP requests (See https://github.com/mdebenito/UserAgentProvider)
+- RandomPause: pauses current thread for a random amount of time (See https://github.com/mdebenito/RandomPause)
 
 ## Maven dependency:
 
